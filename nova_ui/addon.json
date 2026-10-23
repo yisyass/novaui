@@ -1,0 +1,14 @@
+{
+  "title": "NOVA UI | Native Interface Framework",
+  "type": "tool",
+  "tags": [
+    "build"
+  ],
+  "ignore": [
+    "*.md",
+    "*.txt",
+    "tests/*",
+    "docs/*",
+    "artwork/*"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "upstream_commit": "e7adf03d75f933414293e6c4405f2a0398a5afad",
+  "lua_files": 50,
+  "delivered_clients": 45,
+  "missing_runtime_paths": [],
+  "previous_runtime_lua_removed": [],
+  "removed_nonruntime": [
+    "AGENTS.md",
+    "docs/ADMIN_SCROLL_HOTFIX.md",
+    "docs/ADMIN_UPDATE_FILES.md",
+    "docs/CONFIG_KEYBOARD_FIX.md",
+    "docs/ENGINEERING_THEME_CODEC.md",
+    "docs/V0_3_POLISH.md",
+    "docs/V0_4_RESPONSIVE_THEMES.md",
+    "docs/V0_5_DEVELOPER_TOOLS.md",
+    "docs/V0_6_ADVANCED.md",
+    "docs/V0_7_INTEGRATION.md",
+    "docs/V1_0_STABILITY.md",
+    "docs/V1_1_ADMIN_AND_EFFECTS.md",
+    "tests/admin_client_spec.lua",
+    "tests/admin_server_spec.lua",
+    "tests/advanced_spec.lua",
+    "tests/developer_spec.lua",
+    "tests/integration_spec.lua",
+    "tests/json_double.lua",
+    "tests/polish_spec.lua",
+    "tests/responsive_spec.lua",
+    "tests/stability_spec.lua",
+    "tests/typography_editor_spec.lua"
+  ]
+}
